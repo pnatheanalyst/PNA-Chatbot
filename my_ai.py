@@ -6,7 +6,7 @@
     # exibir a resposta da IA na tela
 
 # Para criar o frontend e o backend com python -> streamlit
-# A IA que será utilizada -> OpenAI
+# A IA que será utilizada -> GenAI
 
 import streamlit as st
 from google import genai
